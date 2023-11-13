@@ -134,7 +134,7 @@ export default function Home() {
                 : "from-gradient-3-from to-gradient-3-to"
             }`}
           >
-            Figma and 小红书</span>
+          Figma and 小红书</span>
           .
         </h1>
         <Text
@@ -142,7 +142,7 @@ export default function Home() {
           size={20}
           className="mb-8 text-center max-md:text-base"
         >
-          I'm a designer and looking for internships!
+          I&rsquo;m a designer and looking for internships!
         </Text>
         <div className="flex w-full flex-col items-center justify-center gap-3 md:flex-row md:gap-5">
           <div className="rounded bg-gradient-to-r from-gradient-1-from to-gradient-1-to p-0.5 max-md:w-full max-md:max-w-md">
