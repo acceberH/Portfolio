@@ -124,7 +124,7 @@ export default function Home() {
       >
         <Image src={"/Logo.png"} width={60} height={60} alt="logo" />
         <h1 className="my-4 max-w-4xl text-center text-4xl text-foreground md:text-5xl lg:text-6xl">
-          Experienced web developer specializing in{" "}
+          Experienced web designer specializing in{" "}
           <span
             className={`bg-gradient-to-tr bg-clip-text text-transparent ${
               gradientColor === 1
@@ -134,8 +134,7 @@ export default function Home() {
                 : "from-gradient-3-from to-gradient-3-to"
             }`}
           >
-            ReactJS
-          </span>
+            Figma and 小红书</span>
           .
         </h1>
         <Text
@@ -143,8 +142,7 @@ export default function Home() {
           size={20}
           className="mb-8 text-center max-md:text-base"
         >
-          I have a strong foundation in HTML, CSS, and JavaScript, and I am
-          skilled in creating interactive and visually appealing websites.
+          I'm a designer and looking for internships!
         </Text>
         <div className="flex w-full flex-col items-center justify-center gap-3 md:flex-row md:gap-5">
           <div className="rounded bg-gradient-to-r from-gradient-1-from to-gradient-1-to p-0.5 max-md:w-full max-md:max-w-md">
